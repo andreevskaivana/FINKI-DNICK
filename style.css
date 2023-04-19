@@ -1,0 +1,22 @@
+*{
+   
+}
+.post{
+    overflow: hidden;
+}
+.image{
+    width: 300;
+    height: 150px;
+    float: left;
+    padding: 20px;
+}
+.btn{
+    float: right;
+}
+
+.post {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+}
+
